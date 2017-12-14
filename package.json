@@ -1,0 +1,17 @@
+{
+  "name": "poi-example-1",
+  "version": "1.0.0",
+  "description": "poi demo test",
+  "main": "index.js",
+  "author": "kamesh.arumugam@full.io",
+  "license": "MIT",
+  "private": false,
+  "scripts":{
+    "build": "poi ."  
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "poi": "^9.6.0"
+  }
+}
